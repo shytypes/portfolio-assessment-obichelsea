@@ -8,3 +8,16 @@
 /* the font-family 'JetBrains Mono', has been linked
  * and is available for your use
  * */
+header{background-color: papayawhip;
+padding: 20px;}
+#work {background-color: brown;
+padding: 20px;} 
+#projects{background-color: papayawhip;
+padding: 20px;}
+#hobbies{background-color: brown;
+padding: 20px;}
+#Contact{background-color: papayawhip;
+padding: 20px;}
+section h2{text-decoration: underline;}
+#about{background-color: gray;
+padding: 20px;}
